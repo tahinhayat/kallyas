@@ -1,0 +1,453 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start  */
+.c_nav ul li a{
+    margin: 5px 0 0 !important
+}
+/* header end */
+
+/* banner start */
+.banner{
+    min-height: 425px;
+}
+.b_text{
+    margin-top: 100px;
+}
+.b_h1{
+    font-size: 28px;
+    line-height: 32px;
+}
+.b_text p {
+    margin: 20px 28px 30px;
+}
+.b_btn{
+    margin-bottom: 80px;
+}
+.btn_1{
+    margin-right: 0;
+    margin-bottom: 20px;
+}
+.btn_2{
+    margin-left: 0;
+}
+/* banner end */
+
+/* perfection start */
+.perfection{
+    padding: 60px 0;
+}
+.title h4{
+    font-size: 18px;
+    margin-top: 0;
+}
+.c_h2{
+    font-size: 30px;
+    margin: 0 0 15px;
+}
+.title p{
+    margin: 0 40px 30px;
+}
+.p_single2{
+    margin-top: 20px;
+}
+.icon i{
+    font-size: 50px;
+}
+/* perfection end */
+
+/* plan start */
+.plans{
+    padding: 70px 0 80px;
+}
+.plan_text{
+    text-align: center;
+    margin-top: 0;
+}
+.c_white{;
+    font-size: 31px;
+    line-height: 35px;
+}
+.p_white{
+    font-size: 14px;
+    margin: 20px 0 0;
+}
+.bt3{
+    margin: 35px 0 60px;
+}
+/* plan end */
+
+/* service start */
+.service{
+    padding: 50px 0;
+}
+.c_black{
+    text-align: center;
+    font-size: 26px;
+    margin: 35px 0 20px;
+    line-height: 30px;
+}
+/* service end */
+
+/* capcha start */
+.md{
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+.cap_md{
+    font-size: 31px;
+    line-height: 35px;
+}
+/* capcha end */
+
+/* design start */
+.design{
+    padding: 50px 0;
+}
+.p_ash{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 10px 0 23px;
+}
+.s_text{
+    margin-top: 20px;
+    text-align: center;
+}
+/* design end */
+
+/* contact start */
+.contact{
+    padding: 30px 0 50px;
+}
+.f_h1{
+    text-align: right;
+}
+.h_bold{
+    font-size: 32px;
+    margin-top: 35px;
+    line-height: 35px;
+}
+/* contact end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* header start  */
+.c_nav ul li a{
+    margin: 5px 0 0 !important
+}
+/* header end */
+
+/* banner start */
+.banner{
+    min-height: 425px;
+}
+.b_text{
+    margin-top: 110px;
+}
+.b_h1{
+    font-size: 32px;
+    line-height: 40px;
+}
+.b_text p {
+    margin: 20px 28px 30px;
+}
+.b_btn{
+    margin-bottom: 100px;
+}
+/* banner end */
+
+/* perfection start */
+.perfection{
+    padding: 80px 0;
+}
+.title h4{
+    font-size: 18px;
+    margin-top: 0;
+}
+.c_h2{
+    font-size: 32px;
+    margin: 15px 0;
+}
+.title p{
+    margin: 0 40px 20px;
+}
+.p_single2{
+    margin-top: 40px;
+}
+.icon i{
+    font-size: 55px;
+}
+/* perfection end */
+
+/* plan start */
+.plans{
+    padding: 70px 0 80px;
+}
+.plan_text{
+    text-align: center;
+    margin-top: 0;
+}
+.c_white{
+    font-size: 35px;
+    line-height: 45px;
+}
+.p_white{
+    margin: 20px 0 0;
+}
+.bt3{
+    margin: 35px 0 50px;
+}
+/* plan end */
+
+/* service start */
+.service{
+    padding: 50px 0;
+}
+.c_black{
+    font-size: 34px;
+    margin: 35px 0 20px;
+    line-height: 42px;
+}
+.p_ash{
+    margin: 10px 0 23px;
+}
+/* service end */
+
+/* capcha start */
+.md{
+    text-align: right;
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+.cap_md{
+    font-size: 35px;
+    line-height: 40px;
+}
+/* capcha end */
+
+/* design start */
+.design{
+    padding: 50px 0;
+}
+.dsn_md{
+    margin-top: 0;
+    text-align: left;
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+.p_ash{
+    font-size: 16px;
+    font-weight: 300;
+}
+.s_text{
+    text-align: left;
+    margin-top: 30px;
+}
+/* design end */
+
+/* contact start */
+.contact{
+    padding: 30px 0 50px;
+}
+.f_h1{
+    text-align: right;
+}
+.h_bold{
+    font-size: 32px;
+    margin-top: 35px;
+    line-height: 42px;
+}
+/* contact end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header start  */
+.c_nav ul li a{
+    margin: 5px 0 0 !important
+}
+/* header end */
+    
+/* banner start */
+.banner{
+    min-height: 425px;
+}
+.b_text{
+    margin-top: 120px;
+}
+.b_h1{
+    font-size: 42px;
+    line-height: 50px;
+}
+.b_text p {
+    margin: 20px 25px 50px;
+}
+.b_btn{
+    margin-bottom: 100px;
+}
+/* banner end */
+
+/* perfection start */
+.perfection{
+    padding: 100px 0;
+}
+.title h4{
+    margin-top: 0;
+}
+.c_h2{
+    font-size: 40px;
+}
+.title p{
+    margin: 0 25px 30px;
+}
+/* perfection end */
+
+/* plan start */
+.plans{
+    padding: 100px 0;
+}
+.plan_text{
+    text-align: center;
+    margin-top: 0;
+}
+.c_white{
+    font-size: 42px;
+    line-height: 50px;
+}
+.p_white{
+    margin: 25px 0 0;
+}
+.bt3{
+    margin: 60px 0;
+}
+/* plan end */
+
+/* service start */
+.service{
+    padding: 70px 0;
+}
+.c_black{
+    font-size: 42px;
+    margin-top: 50px;
+    line-height: 50px;
+}
+/* service end */
+
+/* capcha start */
+.md{
+    text-align: right;
+    margin-bottom: 0;
+}
+.cap_md{
+    font-size: 26px;
+    line-height: 40px;
+}
+/* capcha end */
+
+/* design start */
+.design{
+    padding: 50px 0;
+}
+.dsn_md{
+    margin-top: 0;
+    text-align: left;
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+.p_ash{
+    font-size: 16px;
+    font-weight: 300;
+}
+.s_text{
+    text-align: center;
+    margin-top: 30px;
+}
+/* design end */
+
+/* contact start */
+.contact{
+    padding: 40px 0 70px;
+}
+.f_h1{
+    text-align: right;
+}
+.h_bold{
+    font-size: 36px;
+    margin-top: 35px;
+    line-height: 42px;
+}
+/* contact end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start */
+.b_text{
+    margin-top: 170px;
+}
+.b_h1{
+    font-size: 48px;
+}
+.b_text p {
+    margin: 20px 25px 50px;
+}
+/* banner end */
+
+/* perfection start */
+.p_single{
+    width: 29%;
+    padding: 40px 30px;
+}
+.perfection {
+    padding: 250px 0 100px;
+}
+/* perfection end */
+
+/* plan */
+.mt_0{
+    margin-top: 0;
+}
+/* plan end */
+
+/* service start */
+.c_h6{
+    font-size: 18px;
+}
+.service{
+    padding: 80px 0;
+}
+.s_text{
+    margin-top: 25px;
+}
+.mt_30{
+    margin-top: 17px;
+}
+/* service end */
+
+/* contact start */
+.contact{
+    padding: 60px 0 85px;
+}
+/* contact end */
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+/* banner */
+.b_text p {
+    margin: 30px 200px 60px;
+}
+/* banner end */
+
+/* perfection start */
+.p_single{
+    padding: 80px 40px;
+}
+/* perfection end */
+}
